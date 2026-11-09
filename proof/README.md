@@ -14,6 +14,7 @@ The chain is also served as `https://option.42069.me/data/proof.json`, and
 `python scripts/proof.py` verifies a local build against it.
 
 Chain head: `af07ce2f1897ee4e3407a965037c960979db3520413e282c42b01901f3268259`
+Anchor repository: https://github.com/buggy66/HChain
 
 *Why this exists:* a backfilled track record is the most valuable thing a copycat
 can produce, and the cheapest way to produce it is to edit old numbers. Editing one
