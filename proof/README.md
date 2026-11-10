@@ -13,7 +13,7 @@ board is not the one this repository committed.
 The chain is also served as `https://option.42069.me/data/proof.json`, and
 `python scripts/proof.py` verifies a local build against it.
 
-Chain head: `df35e9b7e4fcae9273bbb014a92ddcd339bc513fe959ca327899c48e0b5d7ae6`
+Chain head: `11ded1b514c793e7d4a0b440d621243793d18b75ffb59eb6b308d9b0ce683cdb`
 Anchor repository: https://github.com/buggy66/HChain
 
 *Why this exists:* a backfilled track record is the most valuable thing a copycat
