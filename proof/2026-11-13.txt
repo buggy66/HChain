@@ -1,0 +1,5 @@
+# SmartOptions board digest
+# verify: sha256sum data/board/2026-11-13.json  (from https://option.42069.me)
+date    2026-11-13
+sha256  d6c6a74e919453e843c36a773093b3c551ba35c391da86818f4262ab3615fd1f
+prev    950d8a2d149b03648e62a42d0de5b4494a255594a0ffa36a99b9a1ecc4f4ad11
